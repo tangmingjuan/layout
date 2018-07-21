@@ -1,0 +1,74 @@
+*{
+	margin: 0 auto;
+}
+.hull{
+	width: 700px;
+	color: #fff;
+	background: #fff;
+}
+body{
+	background: #777;
+}
+ul,li{
+	list-style: none;
+}
+
+.button-tiny{
+	width: 700px;
+	height: 50px;
+	text-align:right;
+	padding-top: 10px;
+	padding-right: 20px;
+	color: #555;
+	font-size: 16px;
+	border:none;
+	background: #fff;
+}
+
+
+.feed {
+	width: 700px;
+}
+.content-top{
+	width: 700px;
+	height: 20px;
+	font-size: 15px;
+	text-align:left;
+	color: #555;
+}
+.content-top span{
+	cursor:pointer;
+}
+.user{
+	width: 700px;
+	height: 30px;
+	font-size: 20px;
+	color: #666;
+
+}
+h1{
+	color: #666;
+	font-size: 24px;
+	margin: 0 auto;
+	cursor:pointer;
+}
+h1:hover{
+	color: #d9ffff;
+}
+
+.topic span{
+	color: #666;
+}
+
+.votebutton{
+	color: #fff;
+	border: 1px solid #88ffff;
+	background: #88ffff;
+	border-radius:5px;
+}
+.action{
+	float: left;
+}
+
+
+
